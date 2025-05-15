@@ -1,6 +1,6 @@
 ---
 
-````markdown
+````
 # Battery API – Code Challenge
 
 This is a Spring Boot REST API developed for the Transactive Backend Code Challenge.  
@@ -12,7 +12,7 @@ It allows saving and querying battery data by postcode range with optional filte
 
 1. **Clone the project**
 ```bash
-git clone https://github.com/YOUR_USERNAME/battery-api.git
+git clone https://github.com/SwagatPanta/battery-api.git
 cd battery-api
 ````
 
